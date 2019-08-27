@@ -22,7 +22,7 @@ Download the [models](https://drive.google.com/open?id=1JBkNJS86w05VJIlaD6Rf5XXg
 
 `tracker_cam_demo.py` is the code that runs on either live camera input or a recorded video (nessecary changes are to be made)
 
-traffic_sign_ros.py consists of the ros integrated code. It subscribes images and publishes the name of the sign along with the estimated distance encoded in a string. The names of the topics can be changed as per convenience. 
+`traffic_sign_ros.py` consists of the ros integrated code. It subscribes images and publishes the name of the sign along with the estimated distance encoded in a string. The names of the topics can be changed as per convenience. 
 
 ## Sample results
 
